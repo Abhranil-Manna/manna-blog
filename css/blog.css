@@ -1,0 +1,37 @@
+body{
+	background:rgb(000 130 155);
+	color: white;
+}
+h1{
+	background-image: url("image/header.jpg");
+    background-size: 800px;
+	text-align: center;
+	padding: 10px;
+	font-family: 'Pacifico', cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-shadow: 2px 3px rgb(51, 138, 153);
+}
+#special{
+	border:1px solid gray;
+	background: rgb(134, 159, 163);
+	margin:30px auto;
+
+}
+.highlight{
+	font-size: 1.5em;
+	text-align: center;
+	border:2px solid rgb(000 60 155);
+	background: rgb(79, 97, 99);
+	width: 80%;
+	margin: 15px auto;
+	padding: 5px;
+	border-radius: 20px;
+}
+.date{
+	text-align: right;
+}
+p{
+	padding:0px 5px 0px 10px;
+}
+code{
+	text-align: center;
+}
