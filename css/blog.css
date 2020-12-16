@@ -10,7 +10,7 @@ h1{
 	font-family: 'Pacifico', cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-shadow: 2px 3px rgb(51, 138, 153);
 }
-#special{
+.special{
 	border:1px solid gray;
 	background: rgb(134, 159, 163);
 	margin:30px auto;
