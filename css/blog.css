@@ -3,7 +3,7 @@ body{
 	color: white;
 }
 h1{
-	background-image: url("header.jpg");
+	background-image: url("../header.jpg");
         background-size: 800px;
 	text-align: center;
 	padding: 10px;
